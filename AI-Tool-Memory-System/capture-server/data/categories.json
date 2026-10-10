@@ -1,0 +1,70 @@
+[
+  {
+    "id": "cat_coding",
+    "name": "Coding"
+  },
+  {
+    "id": "cat_design",
+    "name": "Design"
+  },
+  {
+    "id": "cat_image",
+    "name": "Image"
+  },
+  {
+    "id": "cat_video",
+    "name": "Video"
+  },
+  {
+    "id": "cat_audio",
+    "name": "Audio"
+  },
+  {
+    "id": "cat_writing",
+    "name": "Writing"
+  },
+  {
+    "id": "cat_research",
+    "name": "Research"
+  },
+  {
+    "id": "cat_productivity",
+    "name": "Productivity"
+  },
+  {
+    "id": "cat_marketing",
+    "name": "Marketing"
+  },
+  {
+    "id": "cat_education",
+    "name": "Education"
+  },
+  {
+    "id": "cat_automation",
+    "name": "Automation"
+  },
+  {
+    "id": "cat_presentation",
+    "name": "Presentation"
+  },
+  {
+    "id": "cat_developer_tools",
+    "name": "Developer Tools"
+  },
+  {
+    "id": "cat_other",
+    "name": "Other"
+  },
+  {
+    "id": "cat_icon",
+    "name": "Icon"
+  },
+  {
+    "id": "cat_uncategorized",
+    "name": "Uncategorized"
+  },
+  {
+    "id": "cat_1791643854747_6nudq",
+    "name": "3d images"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "tool_1791388237950_cietk",
+    "name": "Flaticon",
+    "url": "https://www.flaticon.com/",
+    "category": "Design",
+    "description": "Flaticon is a comprehensive design platform that provides millions of customizable vector icons, stickers, and graphic resources for web, mobile, and print projects.",
+    "tags": [
+      "Icons",
+      "Vector Graphics",
+      "UI Design",
+      "Graphic Design",
+      "Stickers"
+    ],
+    "source": "extension",
+    "addedAt": "2026-10-07T15:50:37.954Z"
+  },
+  {
+    "id": "tool_1791387147390_e1img",
+    "name": "Gamma",
+    "url": "https://gamma.app",
+    "category": "Presentation",
+    "description": "Gamma is an AI-powered platform that transforms text prompts into engaging, interactive presentations, documents, and webpages in seconds.",
+    "tags": [
+      "AI Presentations",
+      "Slide Generator",
+      "Document Builder",
+      "Interactive Content"
+    ],
+    "source": "extension",
+    "addedAt": "2026-10-07T15:32:27.390Z"
+  }
+]
